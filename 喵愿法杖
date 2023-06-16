@@ -1,0 +1,57 @@
+<html>
+
+ <head> 
+
+  <title>喵愿法杖₍˄·͈༝·͈˄*₎◞ ̑̑</title> 
+
+  <meta charset="utf-8"> 
+
+  <!--响应式--> 
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+
+  <script src="js/jq.js"></script> 
+
+ </head> 
+
+ <body id="v1"> 
+
+ <body background="123.jpg">
+
+  <h1 id="v2">你好，Hello</h1> 
+
+  <p id="v3">1.请在下方输入框输入自己想要实现的愿望</p> 
+
+  <textarea id="v4"></textarea> 
+
+  <p id="v15">不能准确的描述？请尝试</p> 
+
+  <input type="file" id="v17"> 
+
+  <br id="v5"> 
+
+  <p id="v6">2.抱着期望恳切的心将下方的拉动条调整到最后</p> 
+
+  <input type="range" min="0" max="100" step="5" id="v16"> 
+
+  <p id="v8">3.请稍微等待一会...(99.99%)</p> 
+
+  <progress value="96" max="100" id="v19"> </progress> 
+
+  <br>
+
+<br>
+
+<button>若无反应请:🔁重试</button>
+
+<hr id="v20">
+
+  <h2>📡设置</h2>
+
+<p>在 body background=123.jpg 的这一行html是背景图，您可以自定义修改，导入图片到本应用，在将您的图片改成 123.jpg 就大功告成啦，非常简单</p>
+
+<p>如果真有这样的应用就好了...本应用纯属娱乐，切勿当真
+
+ </body>
+
+</html>
