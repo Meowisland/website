@@ -1,0 +1,1 @@
+# [yominsky](https://yominsky.eu.org/) 的官网
